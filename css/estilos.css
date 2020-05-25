@@ -398,6 +398,7 @@ footer{
 
     .subtitulo{
         font-size: 30px;
+      
     }
     .agregar-imagen{
         width: 50%;
@@ -413,5 +414,16 @@ footer{
     .contact-us{
         width: 90%;
     }
-    
+
+    .contenedor-servicio iframe{
+        width: 90%;
+        border-radius: 3px;
+        margin-bottom: 5px;
+    }
+    .contenedor-servicio{
+        text-align: center;
+    }
+    .service h2{
+        margin-bottom: 0;
+    }
 }
