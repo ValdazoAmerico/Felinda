@@ -414,6 +414,12 @@ footer{
     .contact-us{
         width: 90%;
     }
+    .brand {
+        font-size: 20px;
+    }
+    .brand+p{
+        font-size: 12px;
+    }
 
     .contenedor-servicio iframe{
         width: 90%;
@@ -425,5 +431,9 @@ footer{
     }
     .service h2{
         margin-bottom: 0;
+    }
+    .social-media-icon{
+        border: 0;
+        margin-left: 0;
     }
 }
