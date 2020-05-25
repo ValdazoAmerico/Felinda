@@ -446,6 +446,7 @@ footer{
         order: 0;
         margin-bottom: 10px;
         width: 90%;
+        margin-top: -40px;
     }
 .social-media-icon a{
         width: 3%;
